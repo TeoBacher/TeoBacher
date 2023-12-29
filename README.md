@@ -25,6 +25,13 @@
 [![Git](https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=F05032)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF)](https://www.github.com/)
 
+## En apprentissage / perfectionnement
+
+[![React](https://img.shields.io/badge/-React-000?&logo=React&logoColor=fff)](https://reactjs.org/)
+[![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=fff)](https://www.java.com/)
+
+
+
 ## Some stats
 
 ![Contributions GitHub](https://github-readme-stats.vercel.app/api?username=w0lwin&custom_title=Contributions%20GitHub&show_icons=true&locale=en&count_private=true&hide=stars,issues&bg_color=0d1117&hide_border=true&icon_color=52BFEA&text_color=FFF&title_color=52BFEA)
