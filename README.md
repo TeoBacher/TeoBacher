@@ -27,7 +27,7 @@
 [![Git](https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=F05032)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF)](https://www.github.com/)
 
-## En apprentissage / perfectionnement
+## Apprenticeship / advanced training
 
 [![React](https://img.shields.io/badge/-React-000?&logo=React&logoColor=fff)](https://reactjs.org/)
 [![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=fff)](https://www.java.com/)
