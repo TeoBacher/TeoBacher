@@ -1,5 +1,7 @@
 # Welcome 👋
 
+I am a developer with a passion for creation and innovation. My love for photography inspires me to capture life's unique moments, whilst my fondness for travel drives me to explore new horizons. Designing and developing applications is central to my professional career, enabling me to transform my ideas into technological solutions. My interest in fashion also reflects in my work, where I blend aesthetics and functionality to create applications that are both stylish and practical.
+
 - 📫 Contact me on **teobacher.contact@gmail.com**
 
   [![w0lwin](https://github-profile-trophy.vercel.app/?username=w0lwin&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A&no-bg=true&no-frame=true&margin-w=16)](https://github.com/ryo-ma/github-profile-trophy)
