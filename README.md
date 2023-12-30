@@ -10,7 +10,7 @@ I am a developer with a passion for creation and innovation. My love for photogr
 [![Instagram](https://img.shields.io/badge/-Instagram-FF91A4?&logo=Instagram&logoColor=fff)](https://www.instagram.com/teo.bacher/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-FF91A4?&logo=LinkedIn&logoColor=0A66C2)]([https://www.linkedin.com/in/jarjatremi/](https://www.linkedin.com/feed/)https://www.linkedin.com/feed/)
 
-## Languages et outils
+## Languages and tools
 
 [![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=777BB4)](https://www.php.net)
 [![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5&logoColor=E34F26)](https://www.w3.org/html/)
