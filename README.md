@@ -34,6 +34,9 @@ I am a developer with a passion for creation and innovation. My love for photogr
 [![React](https://img.shields.io/badge/-React-000?&logo=React&logoColor=fff)](https://reactjs.org/)
 [![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=fff)](https://www.java.com/)
 [![C](https://img.shields.io/badge/-C-000?&logo=C&logoColor=fff)](https://fr.wikipedia.org/wiki/C_(langage))
+[![Shell](https://img.shields.io/badge/-Shell-000?&logo=gnu-bash&logoColor=fff)](https://fr.wikipedia.org/wiki/Shell_(informatique))
+
+
 
 ## Some stats
 
