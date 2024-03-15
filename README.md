@@ -8,7 +8,7 @@ I am a developer with a passion for creation and innovation. My love for photogr
 
 ## Find me
 [![Instagram](https://img.shields.io/badge/-Instagram-FF91A4?&logo=Instagram&logoColor=fff)](https://www.instagram.com/teo.bacher/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-FF91A4?&logo=LinkedIn&logoColor=0A66C2)]([https://www.linkedin.com/in/jarjatremi/](https://www.linkedin.com/feed/)https://www.linkedin.com/feed/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-FF91A4?&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/t%C3%A9o-bacher-9667ba210/)
 
 ## Languages and tools
 
