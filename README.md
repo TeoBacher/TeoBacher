@@ -4,7 +4,7 @@ I am a developer with a passion for creation and innovation. My love for photogr
 
 - 📫 Contact me on **teobacher.contact@gmail.com**
 
-  [![w0lwin](https://github-profile-trophy.vercel.app/?username=w0lwin&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A&no-bg=true&no-frame=true&margin-w=16)](https://github.com/ryo-ma/github-profile-trophy)
+  [![TeoBacher](https://github-profile-trophy.vercel.app/?username=w0lwin&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A&no-bg=true&no-frame=true&margin-w=16)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Find me
 [![Instagram](https://img.shields.io/badge/-Instagram-FF91A4?&logo=Instagram&logoColor=fff)](https://www.instagram.com/teo.bacher/)
@@ -37,6 +37,8 @@ I am a developer with a passion for creation and innovation. My love for photogr
 [![C](https://img.shields.io/badge/-C-000?&logo=C&logoColor=fff)](https://fr.wikipedia.org/wiki/C_(langage))
 [![Shell](https://img.shields.io/badge/-Shell-000?&logo=gnu-bash&logoColor=fff)](https://fr.wikipedia.org/wiki/Shell_(informatique))
 
+## Top Language
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bori-to&layout=compact)](https://github.com/bori-to/TimberMan-C)
 
 
 ## Some stats
