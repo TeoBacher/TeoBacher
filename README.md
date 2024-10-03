@@ -38,7 +38,7 @@ I am a developer with a passion for creation and innovation. My love for photogr
 [![Shell](https://img.shields.io/badge/-Shell-000?&logo=gnu-bash&logoColor=fff)](https://fr.wikipedia.org/wiki/Shell_(informatique))
 
 ## Top Language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bori-to&layout=compact)](https://github.com/bori-to/TimberMan-C)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeoBacher&layout=compact)](https://github.com/bori-to/TimberMan-C)
 
 
 ## Some stats
